@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Anas Quazi
+# 👋 Hey, I'm Anas Quazi
 
 - 🎓 2nd Year Computer Science Engineering student
 - 💻 Working primarily with C++, Data Structures & Algorithms
@@ -8,9 +8,10 @@
 
 ## 🧑‍💻 Tech Stack
 
-![TechStack](https://github.com/user-attachments/assets/646bee30-d6c1-4c8b-a243-ec8c34b6f558)
+<img src="https://github.com/user-attachments/assets/646bee30-d6c1-4c8b-a243-ec8c34b6f558" alt="Tech Stack" width="700">
 
-![Tech Stack](./TechStack.jpeg)
+
+
 
 **Languages:** C++, Python, Java, C  
 **Core CS:** Data Structures & Algorithms, Object-Oriented Programming, MySQL  
