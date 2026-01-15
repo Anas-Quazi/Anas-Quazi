@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hey, I'm Anas Quazi
+
+- 🎓 2nd Year Computer Science Engineering student
+- 💻 Working primarily with C++, Data Structures & Algorithms
+- 🧠 Familiar with Python, Java, and MySQL
+- 🚀 Focused on improving problem-solving skills and building strong fundamentals
+- 🧩 Turning learned concepts into projects through hands-on coding and problem solving
+
+  
 
 <!--
 **Anas-Quazi/Anas-Quazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
