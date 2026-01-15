@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Tech Stack
 
-<img src="https://github.com/user-attachments/assets/646bee30-d6c1-4c8b-a243-ec8c34b6f558" alt="Tech Stack" width="700">
+<img src="https://github.com/user-attachments/assets/646bee30-d6c1-4c8b-a243-ec8c34b6f558" alt="Tech Stack" width="300">
 
 
 
