@@ -6,6 +6,17 @@
 - 🚀 Focused on improving problem-solving skills and building strong fundamentals
 - 🧩 Turning learned concepts into projects through hands-on coding and problem solving
 
+## 🧑‍💻 Tech Stack
+
+![TechStack](https://github.com/user-attachments/assets/646bee30-d6c1-4c8b-a243-ec8c34b6f558)
+
+![Tech Stack](./TechStack.jpeg)
+
+**Languages:** C++, Python, Java, C  
+**Core CS:** Data Structures & Algorithms, Object-Oriented Programming, MySQL  
+**Tools:** VS Code, Git, GitHub
+
+
   
 
 <!--
