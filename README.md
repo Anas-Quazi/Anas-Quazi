@@ -54,9 +54,22 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anas-Quazi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anas-Quazi&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Quazi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Anas-Quazi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://nirzak-streak-stats.vercel.app/?user=Anas-Quazi&theme=blue-green&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Quazi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=500)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas-Quazi&bg_color=000000&color=00FFFF&line=00BFFF&point=00FFFF&area=true&hide_border=true&area=true" width="95%"/>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anas-Quazi&icon=0&color=0)](https://visitcount.itsvg.in)
